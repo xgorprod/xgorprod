@@ -1,7 +1,7 @@
 ## 🎯 Currently learning:
 ![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 </br>
-## ☄️ Skilful in:
+## ☄️ Skillful in:
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 ![](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=flat&logo=Adobe%20after%20effects&logoColor=393665)
 </br>
