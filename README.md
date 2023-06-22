@@ -11,5 +11,5 @@
 ![](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=flat&logo=Adobe%20after%20effects&logoColor=393665)
 </br>
 ## 📌 My contacts:
-<a href="https://discord.gg/revisione"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://www.youtube.com/c/xgorprod"><img align="left" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)"/></a>
+<a href="https://discord.gg/revisione"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
+<a href="https://www.youtube.com/c/xgorprod"><img align="left" src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)"/></a>
