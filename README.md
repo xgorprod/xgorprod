@@ -1,7 +1,9 @@
-## 💼 Technical Skills
+## Currently learning:
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=Lua&color=CC342D)
-![](https://aleen42.github.io/badges/src/after_effects.svg)
 
 </br>
+
+![](https://aleen42.github.io/badges/src/photoshop.svg)
+![](https://aleen42.github.io/badges/src/after_effects.svg)
