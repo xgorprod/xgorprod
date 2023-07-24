@@ -11,5 +11,5 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 </br>
 ## 📌 My socials:
-<a href="https://discord.gg/revisione"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
+<a href="https://dsc.gg/revisione"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
 <a href="https://www.youtube.com/c/xgorprod"><img align="left" src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)"/></a>
