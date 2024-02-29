@@ -15,4 +15,3 @@
 </br>
 ## 📌 My socials:
 <a href="https://discord.com/users/386444221432856576"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
-<a href="https://www.youtube.com/c/xgorprod"><img align="left" src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)"/></a>
