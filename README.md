@@ -1,4 +1,5 @@
 ## 🎯 Currently learning:
+![](https://img.shields.io/badge/React-525252?style=flat&logo=react&logoColor=36cdff)
 ![](https://img.shields.io/badge/Machine%20Learning-525252?style=flat&logo=googlecolab&logoColor=F9AB00)
 </br>
 ## ☄️ Skilled in:
