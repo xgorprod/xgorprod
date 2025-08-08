@@ -1,8 +1,8 @@
-## 🎯 Currently learning:
+## 🎯 Currently learning
 ![](https://img.shields.io/badge/React-525252?style=flat&logo=react&logoColor=36cdff)
 ![](https://img.shields.io/badge/Machine%20Learning-525252?style=flat&logo=googlecolab&logoColor=F9AB00)
 </br>
-## ☄️ Skilled in:
+## ☄️ Skilled in
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=29374d)
 ![](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=flat&logo=Adobe%20after%20effects&logoColor=2b294d)
 </br>
@@ -14,5 +14,5 @@
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 </br>
-## 📌 My socials:
-<a href="https://discord.com/users/386444221432856576"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
+## 📌 Contact me
+<a href="https://t.me/clocksync"><img align="left" src="https://img.shields.io/badge/Telegram-2e7bd9?style=flat&logo=telegram&logoColor=white"/></a>
